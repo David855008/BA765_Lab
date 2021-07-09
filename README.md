@@ -1,2 +1,2 @@
-# BA765_Lab1
-David Wang
+# BA765_Lab
+for session 1&2
